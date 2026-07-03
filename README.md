@@ -1,8 +1,8 @@
-# Wallet UI Concept
+# walletflow-digital-wallet
 
 ## Overview
 
-Wallet UI Concept is a personal UI/UX design practice project created in Figma. The project focuses on designing a modern digital wallet interface that enables users to manage their finances, monitor transactions, and perform quick money transfers through a clean and intuitive mobile experience.
+walletflow-digital-wallet is a personal UI/UX design practice project created in Figma. The project focuses on designing a modern digital wallet interface that enables users to manage their finances, monitor transactions, and perform quick money transfers through a clean and intuitive mobile experience.
 
 ---
 
@@ -55,7 +55,7 @@ The goal of this project was to practice designing a modern fintech dashboard wi
 
 ## Preview
 
-See **Wallet UI.pdf** for the complete design.
+See **WalletFlow.pdf** for the complete design.
 
 ---
 
